@@ -10,4 +10,4 @@
 
 ## Watch Video Tutorial:
 
-[![ESP32 Beginners Tutorial on Sketch Data Uploading](https://img.youtube.com/vi/9i1nDUoDRcI/yt_thumb.jpg)](https://youtu.be/9i1nDUoDRcI)
+[![ESP32 Beginners Tutorial on Sketch Data Uploading](https://img.youtube.com/vi/9i1nDUoDRcI/maxresdefault.jpg)](https://youtu.be/9i1nDUoDRcI)
